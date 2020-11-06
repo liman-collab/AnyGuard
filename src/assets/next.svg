@@ -1,0 +1,20 @@
+<svg width="70" height="70" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter filterUnits="userSpaceOnUse" height="154" width="154" y="0" x="0" id="Oval_Copy_105">
+   <feGaussianBlur stdDeviation="15"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="72" width="72" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Next">
+   <g id="svg_1" filter="url(#Oval_Copy_105)" transform="matrix(1,0,0,1,-49,-41) ">
+    <circle fill="#fff" r="32" cy="75" cx="86" id="Oval_Copy_105-2"/>
+   </g>
+   <path d="m34.395,21.053l1.561,-1.561a1.681,1.681 0 0 1 2.384,0l13.668,13.661a1.681,1.681 0 0 1 0,2.384l-13.669,13.673a1.681,1.681 0 0 1 -2.384,0l-1.56,-1.557a1.689,1.689 0 0 1 0.028,-2.412l8.477,-8.075l-20.212,0a1.683,1.683 0 0 1 -1.688,-1.688l0,-2.25a1.683,1.683 0 0 1 1.688,-1.687l20.212,0l-8.477,-8.072a1.677,1.677 0 0 1 -0.028,-2.416z" id="Icon_awesome-arrow-right"/>
+  </g>
+ </g>
+</svg>
